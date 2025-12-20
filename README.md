@@ -71,14 +71,4 @@ I prioritize **technical rigor, reproducibility and standards-aligned design**.
 🔗 **https://charls767.github.io/**  
 Technical documentation and project portfolio.
 
----
 
-> *Engineering with structure, precision and purpose.*
-### Website
-
-🔗 **https://charls767.github.io/**  
-Technical documentation, projects and visual material.
-
----
-
-> *Engineering with structure, precision and purpose.*
