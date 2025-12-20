@@ -1,98 +1,50 @@
 ## Hi there 👋  
-### I'm Carlos Alberto Acevedo Carmona
+### Carlos Alberto Acevedo Carmona
 
 **Chemical Engineering & Systems Engineering student**  
-Focused on **scientific computing, optimization, decision systems and software engineering**.
+Focused on scientific computing, optimization and software engineering.
 
 ---
 
-### 🧭 About Me
+### About
 
-I am an interdisciplinary engineering student with a strong interest in the intersection between  
-**chemical engineering, systems engineering and applied computing**.
-
-My work focuses on designing **robust, well-documented and standards-aligned solutions**, combining:
-
-- Mathematical modeling and simulation  
-- Optimization and decision analysis  
-- Software engineering and system quality  
-- Data analysis and scientific visualization  
-
-I value **clarity, structure, reproducibility and technical rigor** in every project.
+Interdisciplinary engineering student with a strong interest in **engineering software, decision support systems and quantitative modeling**.  
+I work on projects that prioritize **technical rigor, clarity, reproducibility and standards compliance**.
 
 ---
 
-### 🧪 Areas of Interest
+### Interests
 
-- **Scientific & Engineering Software**
-  - Thermodynamic property calculation
-  - Process simulation and modeling
-- **Optimization & Decision Support**
-  - Metaheuristics (ACO, GA, BCO, DE)
-  - Multi-criteria decision making (AHP, sensitivity analysis)
-- **Software Engineering**
-  - ISO/IEC 25010 – Software Quality
-  - ISO/IEC 12207 – Software Lifecycle
-  - Metrics, testing and documentation
-- **Data & Visualization**
-  - Python-based analysis
-  - Technical plots and engineering diagrams
+- Engineering simulation and scientific computing  
+- Optimization and metaheuristics  
+- Decision analysis and multi-criteria evaluation  
+- Software quality, metrics and testing  
 
 ---
 
-### 🛠️ Technologies & Tools
+### Tools & Technologies
 
-**Programming & Scripting**
-- Python, Java, MATLAB  
-- Scientific libraries (NumPy, SciPy, Matplotlib)
-
-**Software & Systems**
-- Git & GitHub  
-- LaTeX (technical and academic writing)
-- Qt Designer, Flet (GUI development)
-
-**Engineering & Analysis**
-- Optimization algorithms
-- Simulation models
-- Structured experimentation
+- **Languages:** Python, Java, MATLAB  
+- **Engineering:** modeling, simulation, optimization  
+- **Software:** Git, LaTeX, GUI development  
 
 ---
 
-### 📌 Selected Projects
-
-- **Engineering Simulation Tools**  
-  Modular applications for thermodynamic and process calculations.
-
-- **Optimization Experiments**  
-  Comparative studies of metaheuristics applied to classical engineering problems.
-
-- **Decision Support Systems**  
-  Quantitative evaluation models with traceability and sensitivity analysis.
-
-*(More details and visual material available on my website)*
-
----
-
-### 🌐 Personal Website
+### Website
 
 🔗 **https://charls767.github.io/**  
-
-Here you can find:
-- Project documentation
-- Technical notes
-- Academic-style explanations
-- Visualizations and diagrams
+Project documentation, technical notes and visual material.
 
 ---
 
-### 📫 Contact
+### Contact
 
-If you are interested in collaboration, research or technical discussion:
-
-- GitHub: **@charls767**
-- Website contact section
+GitHub: **@charls767**
+email: **caacevedo@unal.edu.co**
 
 ---
+
+> *Engineering with structure, precision and purpose.*
 
 ### ⚡ Philosophy
 
