@@ -1,4 +1,4 @@
-## Hi there 👋  
+
 ### Carlos Alberto Acevedo Carmona
 
 **Chemical Engineering & Systems Engineering student**  
