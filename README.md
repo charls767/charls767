@@ -64,11 +64,5 @@ I prioritize **technical rigor, reproducibility and standards-aligned design**.
 - Decision analysis and sensitivity studies  
 - Software quality, metrics and testing  
 
----
-
-### Website
-
-🔗 **https://charls767.github.io/**  
-Technical documentation and project portfolio.
 
 
