@@ -14,10 +14,7 @@ I prioritize **technical rigor, reproducibility and standards-aligned design**.
 
 ### GitHub Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charls767&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charls767&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="150"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=charls767&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=1f6feb&hide_border=true"/>
